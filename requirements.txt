@@ -1,0 +1,15 @@
+# --- Xử lý Ảnh và Nhận dạng chữ (OCR) ---
+opencv-python
+paddlepaddle==2.6.2
+paddleocr==2.9.1
+matplotlib
+
+# --- Xử lý Dữ liệu thô ---
+pandas
+scikit-learn
+
+# --- Trí tuệ nhân tạo & Mô hình Ngôn ngữ (NLP) ---
+torch
+transformers
+datasets
+accelerate

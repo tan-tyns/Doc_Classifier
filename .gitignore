@@ -1,0 +1,16 @@
+# 1. Bỏ qua môi trường ảo (Thư viện)
+venv/
+.venv/
+env/
+
+# 2. Bỏ qua các file rác của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 3. Bỏ qua cấu hình riêng của VS Code
+.vscode/
+
+# 4. Bỏ qua dữ liệu nặng hoặc file log (Tùy chọn cho NCKH)
+*.log
+data/raw/
