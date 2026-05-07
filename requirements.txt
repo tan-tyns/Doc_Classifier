@@ -2,6 +2,8 @@
 opencv-python
 paddlepaddle==2.6.2
 paddleocr==2.9.1
+vietocr
+pdf2image
 matplotlib
 
 # --- Xử lý Dữ liệu thô ---

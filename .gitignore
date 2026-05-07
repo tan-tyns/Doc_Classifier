@@ -1,16 +1,11 @@
-# 1. Bỏ qua môi trường ảo (Thư viện)
+# Môi trường ảo Python
 venv/
-.venv/
 env/
-
-# 2. Bỏ qua các file rác của Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
 
-# 3. Bỏ qua cấu hình riêng của VS Code
-.vscode/
-
-# 4. Bỏ qua dữ liệu nặng hoặc file log (Tùy chọn cho NCKH)
-*.log
+# Các file ảnh test sinh ra trong quá trình chạy
+debug_boxes.jpg
+debug_sau_xu_ly.jpg
 data/raw/
+data/interim/
